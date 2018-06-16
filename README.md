@@ -8,7 +8,7 @@ Centre for Excellence in Computational Engineering and Networking ([CEN](https:/
 
 Computational Thinking group at CEN aims to develop block based programming tools to impart computational thinking for K-12 education. We constantly working on development of block based programming tools and the associated project activities and its documentation in all Indian languages.
 
-#### Head
+#### Mentor specialized in computational thinking
 [Dr. Soman K P](http://nlp.amrita.edu/somankp)
 
 #### Mentors specialized in Cloud Security
