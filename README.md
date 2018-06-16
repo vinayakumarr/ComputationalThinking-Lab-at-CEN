@@ -11,7 +11,7 @@ Computational Thinking group at CEN aims to develop block based programming tool
 #### Mentor specialized in computational thinking
 [Dr. Soman K P](http://nlp.amrita.edu/somankp)
 
-#### Mentors specialized in Cloud Security
+#### Mentor specialized in Cloud Security
 [Dr. Prabaharan Poornachandran Center for Cyber Security Systems and Networks, Amrita Vishwa Vidyapeetham, Coimbatore, India](https://scholar.google.com/citations?user=e233m6MAAAAJ&hl=en)
 
 #### Mentors specialized in Cloud Computing
@@ -19,7 +19,7 @@ Computational Thinking group at CEN aims to develop block based programming tool
 
 [Mr. Sajith Variyar V. V.](https://www.amrita.edu/faculty/vv-sajithvariyar)
 
-### People working on development cloud applications for block based programming
+### People working on development of cloud applications for block based programming
 [Mr. Vinayakumar R](https://vinayakumarr.github.io/)
 
 #### Block-based programming Tools
