@@ -19,7 +19,7 @@ Computational Thinking group at CEN aims to develop block based programming tool
 
 [Mr. Sajith Variyar V. V.](https://www.amrita.edu/faculty/vv-sajithvariyar)
 
-### People working on development of cloud applications for block based programming
+### Students working on development of cloud applications for block based programming
 [Mr. Vinayakumar R](https://vinayakumarr.github.io/)
 
 #### Block-based programming Tools
