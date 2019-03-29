@@ -22,7 +22,15 @@ Computational Thinking group at CEN aims to develop block based programming tool
 ### Students working on development of cloud applications for block based programming
 [Mr. Vinayakumar R](https://vinayakumarr.github.io/)
 
-[Mr. Amara Dinesh Kumar, Master's student](https://dineshresearch.github.io/)[ --> Site](https://sites.google.com/view/dineshkumaramara/home)
+[Mr. Akarsh S](https://nlp.amrita.edu/akarshs/)
+
+[Mr. Sriram S](https://thecodinglama.github.io/)
+
+[Simran K]
+
+[Vidya Prasad K]
+
+[Mr. Amara Dinesh Kumar, Master's student](https://dineshresearch.github.io/)
 
 #### Block-based programming Tools
 
