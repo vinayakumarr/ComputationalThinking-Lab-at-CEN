@@ -26,7 +26,7 @@ Computational Thinking group at CEN aims to develop block based programming tool
 
 [Mr. Sriram S](https://thecodinglama.github.io/)
 
-[Simran K]
+[Simran K](https://simranketha.github.io/)
 
 [Vidya Prasad K]
 
